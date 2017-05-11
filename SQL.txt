@@ -1,1 +1,2 @@
-SELECT * FROM USERS
+SELECT * FROM Users Order By id
+SELECT * FROM Roles
